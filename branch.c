@@ -3,4 +3,5 @@ void main()
 {
 printf("hello world,my creations");
 printf("little world ");
+  printf("fycs");
 }
